@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author Lenovo
  */
-public class ApotekMain {
+final public class ApotekMain {
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Obat> daftarObat = new ArrayList<>();
