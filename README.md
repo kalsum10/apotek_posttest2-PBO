@@ -1,7 +1,7 @@
 # apotek_posttest2-PBO
 ## OUTPUT PROGRAM
 Pada Output program ini diminta untuk menjalankan program Apotek dengan tampilan awal selamat datang di sistem manajemen apotek!
-dengan dilengkapai oleh CRUD dan Keluar. Setelah itu user dapat memilih Tambah Obat, Lihar Daftar Obat, Edit Obat, Hapus Obat dan Kembali.
+dengan dilengkapai oleh menu CRUD dan Keluar. Setelah itu user dapat memilih Tambah Obat, Lihat Daftar Obat, Edit Obat, Hapus Obat dan Kembali.
 Jika menu pertama yang dipilih adalah (tambah obat), maka user diminta untuk memasukan nama obat untuk menyimpan diprogram misalnya saja untuk nama obat Paracetamol, Harga Obat 10000, Stok Obat 200, Jika sudah selesai maka program akan menampilkan Obat berhasil ditambahkan!
 Jika menu kedua yang dipilih adalah (Lihat daftar obat), maka program akan menampilkan data obat yang sudah ada didalam program seperti nama obat, harga obat dan stok obat.
 Jika menu ketiga yang dipilih adalah (edit obat),untuk mengubah stok obat yang lama menjadi stok obat yang baru, maka program akan menampilkan masukan nama obat yang ingin diubah stoknya dan user memasukan nama obat yang ingin diubah stoknya dan memasukan stok obat yang baru.
