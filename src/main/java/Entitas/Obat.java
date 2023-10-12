@@ -8,7 +8,7 @@ package Entitas;
  *
  * @author Lenovo
  */
-public class Obat {
+final public class Obat {
      private final String nama;
     private final int harga;
     private int stok;
@@ -19,23 +19,23 @@ public class Obat {
         this.stok = stok;
     }
 
-    public String getNama() {
+    final public String getNama() {
         return nama;
     }
     
-    public void setNama(int nama) {
+    final public void setNama(int nama) {
         this.stok = stok;
     }
 
-    public int getHarga() {
+    final public int getHarga() {
         return harga;
     }
 
-    public int getStok() {
+    final public int getStok() {
         return stok;
     }
 
-    public void setStok(int stok) {
+    final public void setStok(int stok) {
         this.stok = stok;
     }
 }
